@@ -1,0 +1,42 @@
+
+.navbar-brand1
+{
+    display: block;
+    background-color: #2F2F2F;
+    border: #2F2F2F;
+    text-align: justify;
+    padding-left: 30px;
+    height: 35px;
+    padding-top: 5px;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 16px;
+    width: 160%;
+}
+
+.paragraphcontent:hover
+{
+    padding-left:40px;
+     font-size: 16px;
+     padding-top: 50px;
+     padding-top: 0%;
+}
+
+@media screen and (min-width:576px){
+
+
+    .navbar-brand
+    {
+        display: block;
+     
+    }
+   
+    .paragraph
+    {
+       
+      
+        display: block;
+        margin-top: 100px;    
+    
+    }
+ 
